@@ -7,6 +7,6 @@
 - Resources
 
 ## Instruction:
-- Open the index.html
+- Open the `index.html`
 - Check out all the pages on this site
 - Modify the site code to suit yourself
